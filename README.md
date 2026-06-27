@@ -215,9 +215,3 @@ The project provides:
 
 B.Tech – Computer Science and Engineering
 SRM Institute of Science and Technology
-
----
-
-# License
-
-This project is developed for educational and academic purposes. The dataset belongs to the National Family Health Survey (NFHS-5), Government of India.
